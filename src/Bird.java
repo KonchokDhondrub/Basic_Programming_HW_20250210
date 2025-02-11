@@ -29,7 +29,4 @@ public abstract class Bird {
         return flyDistance;
     }
 
-    public String fly(){
-        return "Птица машет крыльями и летит.";
-    }
 }
